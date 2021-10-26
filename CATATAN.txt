@@ -1,0 +1,1 @@
+maaf karena stanalonenya tidak ada, sudah saya coba tetap ketika di build selalu eror tapi ketika di jalankan seperti biasa gamenya tetap lancar
